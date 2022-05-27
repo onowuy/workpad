@@ -1,6 +1,6 @@
-# nodegui-starter
+# Workpad
 
-**Clone and run for a quick way to see NodeGui in action.**
+**A collection of small utilities to help me work more efficiently.**
 
 ## To Use
 
@@ -12,9 +12,9 @@ From your command line:
 
 ```bash
 # Clone this repository
-git clone https://github.com/nodegui/nodegui-starter
+git clone https://github.com/onowuy/workpad
 # Go into the repository
-cd nodegui-starter
+cd workpad
 # Install dependencies
 npm install
 # Run the app
